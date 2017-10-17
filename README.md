@@ -13,23 +13,7 @@ For marketers, a typical cohort can relate to things like users, visitors, leads
 Calculating cohort metrics can be really complicated.To begin with, there are numerous ways of structuring the cohort table and visualizing the results. Reading and understanding the results is still the more challenging part of the analysis so we will spend some time on that later on.
 
 
-## Getting started
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 
 
